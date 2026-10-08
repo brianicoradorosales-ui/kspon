@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brianicoradorosales-ui.github.io/kspon/sitemap.xml
